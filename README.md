@@ -36,7 +36,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 ### 3. Run the Script
 Navigate to the directory where you saved `Remove-OneDrive.ps1` and execute it:
 ```powershell
-.\Remove-OneDrive.ps1
+.\ByeOneDrive.ps1
 ```
 
 ### 4. Reboot Your PC
